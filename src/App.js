@@ -50,7 +50,7 @@ class App extends Component {
         <meta name="author" content="0xdhrv">
         <meta name="twitter:image" content="https://res.cloudinary.com/dhrv/image/upload/v1602144615/resources/dhrv-Og.png" />
         <meta name="og:image" content="https://res.cloudinary.com/dhrv/image/upload/v1602144615/resources/dhrv-Og.png" />
-        <title>Web Playgorund | Dhruv Suthar : 0xdhrv</title>
+        <title>Web Playground | Dhruv Suthar : 0xdhrv</title>
         <link rel="manifest" href="/favicons/manifest.json" />
         <meta name="theme-color" content="#000000" />
         <link rel="mask-icon" href="/favicons/pinned.svg" color="#000000" />
